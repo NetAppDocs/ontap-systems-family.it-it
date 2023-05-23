@@ -1,0 +1,53 @@
+---
+settings:
+  name: AFF and FAS Family
+  search: ontap-systems,ontap-systems-upgrade,ontap-systems-switches,ontap-metrocluster
+  internal:
+    pdf_enabled: false
+  prod:
+    pdf_enabled: false
+    harmony_enabled: false
+  langs: it-it,us-en,ja-jp,ko-kr,zh-cn,zh-tw,de-de,es-es,fr-fr
+sidebar:
+  entries:
+  - title: Documentazione AFF e FAS
+    url: "/index.html"
+product-family:
+  sidebarlinks:
+  - title: Tutto
+    tags: tag_storage_management,tag_storage_upgrade,tag_storage_hardware,tag_get_started
+    class: active
+  - title: Inizia subito
+    tags: tag_get_started
+  - title: Hardware di sistema
+    tags: tag_storage_hardware
+  - title: Upgrade del sistema
+    tags: tag_storage_upgrade
+  tiles:
+  - title: Scopri di più su AFF e FAS
+    icon: "./media/family.png"
+    url: intro-family.html
+    summary: Scopri la famiglia di sistemi storage AFF e FAS.
+    tags: all, tag_get_started
+  - title: Installazione e manutenzione di AFF e FAS
+    icon: "./media/icon-onprem.png"
+    url: https://docs.netapp.com/us-en/ontap-systems/index.html
+    summary: Installazione e manutenzione dei sistemi AFF, FAS o di tutti gli array
+      SAN.
+    tags: all, tag_storage_hardware
+  - title: Aggiornamento di AFF e FAS
+    icon: "./media/upgrade.png"
+    url: https://docs.netapp.com/us-en/ontap-systems-upgrade/index.html
+    summary: Aggiorna i tuoi sistemi storage AFF e FAS.
+    tags: all, tag_storage_upgrade
+  - title: Switch di cluster e storage
+    icon: "./media/switch.png"
+    url: https://docs.netapp.com/us-en/ontap-systems-switches/index.html
+    summary: Installare, aggiornare e gestire gli switch di cluster e storage.
+    tags: all, tag_storage_hardware, tag_storage_upgrade
+  - title: ONTAP MetroCluster
+    icon: "./media/metrocluster.png"
+    url: https://docs.netapp.com/us-en/ontap-metrocluster/index.html
+    summary: Installare e aggiornare o espandere le configurazioni MetroCluster ed
+      eseguire il disaster recovery.
+    tags: all, tag_storage_upgrade

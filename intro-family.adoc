@@ -1,0 +1,64 @@
+---
+permalink: intro-family.html 
+keywords: introduction, what is ONTAP systems, AFF, FAS, all-flash, ONTAP 
+summary: La famiglia di sistemi storage NetApp ONTAP è progettata per le applicazioni aziendali che richiedono uno storage semplice da gestire, rapido e sicuro, con affidabilità di livello Enterprise e accesso continuo ai dati. 
+---
+= Scopri la famiglia di sistemi storage AFF e FAS
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+La famiglia di sistemi storage NetApp AFF e FAS è progettata per le applicazioni aziendali che richiedono uno storage semplice da gestire, rapido e sicuro con affidabilità di livello Enterprise e accesso continuo ai dati.
+
+I sistemi AFF e FAS sono disponibili in configurazioni all-flash (AFF) e flash ibrida e solo HDD (FAS), offrendo la possibilità di scegliere la combinazione di supporti di storage più adatta ai requisiti di performance, capacità e costi.
+
+È possibile raggruppare in cluster diverse combinazioni di modelli AFF e FAS per eseguire carichi di lavoro misti sullo stesso sistema storage e creare il proprio ambiente aggiungendo nuove generazioni di storage con le tecnologie più recenti.
+
+
+
+== Sistemi AFF (All-Flash FAS)
+
+I sistemi AFF basati su NVMe sono una solida piattaforma scale-out creata per gli ambienti virtualizzati e possono essere implementati come sistema indipendente o Tier ad alte performance in una configurazione NetApp ONTAP.
+
+Supportando una vasta gamma di carichi di lavoro, in particolare VDI e database che richiedono performance elevate, bassa latenza e affidabilità, le configurazioni FAS all-flash sono la scelta ideale per le applicazioni business-critical.
+
+https://www.netapp.com/pdf.html?item=/media/7828-DS-3582-AFF-A-Series.pdf["Leggi la scheda informativa di AFF Serie A."^] e. https://www.netapp.com/media/81583-da-4240-aff-c-series.pdf["Leggi la scheda informativa di AFF serie C."^].
+
+
+
+== Sistemi flash ibridi FAS
+
+I sistemi flash ibridi FAS sono una piattaforma hardware creata per ambienti SAN e NAS condivisi e consolidati che richiedono una gestione completa dei dati e una semplice connessione al cloud.
+
+Grazie all'hardware altamente disponibile, i sistemi flash ibridi FAS soddisfano in modo conveniente le esigenze di carico di lavoro combinando la combinazione ideale di flash e dischi rotanti tradizionali. È ideale per backup e conservazione, consolidamento di applicazioni aziendali generiche e contenuti distribuiti.
+
+https://www.netapp.com/pdf.html?item=/media/7819-ds-4020.pdf["Leggi la scheda informativa di FAS"^]
+
+
+
+== MetroCluster
+
+I sistemi storage AFF e FAS configurati con la funzionalità MetroCluster di ONTAP offrono una soluzione che combina il clustering basato su array con la replica sincrona per offrire disponibilità continua e nessuna perdita di dati. La configurazione di MetroCluster duplica immediatamente tutti i dati mission-critical transazione per transazione, offrendo un accesso ininterrotto ad applicazioni e dati.
+
+A differenza delle soluzioni di replica dei dati standard, MetroCluster funziona perfettamente con l'ambiente host per garantire la disponibilità continua dei dati, eliminando al contempo la necessità di creare e gestire complicati script di failover.
+
+https://www.netapp.com/pdf.html?item=/media/13480-tr4705.pdf["Scopri di più su MetroCluster"^]
+
+
+
+== Software ONTAP
+
+Il software per la gestione dei dati ONTAP è il software per lo storage in cluster che alimenta i sistemi AFF e FAS. Con uno spazio dei nomi globale che supporta fino a 24 nodi AFF e FAS di tutti i tipi, il software ONTAP supporta lo storage unificato (blocco e file), consentendo un significativo consolidamento dei carichi di lavoro che è possibile gestire utilizzando l'interfaccia grafica di Gestione sistema di ONTAP.
+
+https://www.netapp.com/pdf.html?item=/media/7413-ds-3231.pdf["Leggi la scheda informativa di ONTAP"^].
+
+
+
+== Per ulteriori informazioni
+
+* https://docs.netapp.com/us-en/ontap-systems/index.html["Documenti di AFF e FAS"^]
+* https://docs.netapp.com/us-en/ontap-metrocluster/index.html["Documenti MetroCluster"^]
+* https://docs.netapp.com/us-en/ontap/index.html["Documenti ONTAP"^]
+
