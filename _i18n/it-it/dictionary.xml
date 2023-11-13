@@ -13,11 +13,6 @@
   <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">I file di avviso forniscono informazioni sul copyright e sulle licenze di terze parti utilizzate nel software NetApp.</block>
   <block id="27e4f654e31a54c18c3f94846eb8fcc2" category="inline-link">Avviso per shelf di dischi</block>
   <block id="0c8d7a4e0e5ab5d34b549a9af84add17" category="paragraph"><block ref="0c8d7a4e0e5ab5d34b549a9af84add17" category="inline-link-rx"></block></block>
-  <block id="d24f49ab459eb5cf20cac1a98ab2f379" category="summary">La famiglia di sistemi storage NetApp ONTAP è progettata per le applicazioni aziendali che richiedono uno storage semplice da gestire, rapido e sicuro, con affidabilità di livello Enterprise e accesso continuo ai dati.</block>
-  <block id="8c04ea70634d0554f973a2d69d65a295" category="doc">Scopri la famiglia di sistemi storage AFF e FAS</block>
-  <block id="85cf9c0ff76eceb38b21e8b18cd1cb9a" category="paragraph">La famiglia di sistemi storage NetApp AFF e FAS è progettata per le applicazioni aziendali che richiedono uno storage semplice da gestire, rapido e sicuro con affidabilità di livello Enterprise e accesso continuo ai dati.</block>
-  <block id="d33452f83a0ff2c23eb72b0e994747a5" category="paragraph">I sistemi AFF e FAS sono disponibili in configurazioni all-flash (AFF) e flash ibrida e solo HDD (FAS), offrendo la possibilità di scegliere la combinazione di supporti di storage più adatta ai requisiti di performance, capacità e costi.</block>
-  <block id="26c1e0398fc6b3e1d0a15a0d26117bea" category="paragraph">È possibile raggruppare in cluster diverse combinazioni di modelli AFF e FAS per eseguire carichi di lavoro misti sullo stesso sistema storage e creare il proprio ambiente aggiungendo nuove generazioni di storage con le tecnologie più recenti.</block>
   <block id="3c6f546d42200583dd3ef64c44a12306" category="section-title">Sistemi AFF (All-Flash FAS)</block>
   <block id="223ef00238c9b7a5c70952ac89019615" category="paragraph">I sistemi AFF basati su NVMe sono una solida piattaforma scale-out creata per gli ambienti virtualizzati e possono essere implementati come sistema indipendente o Tier ad alte performance in una configurazione NetApp ONTAP.</block>
   <block id="8977f307824a451c0aee8f74c26d4135" category="paragraph">Supportando una vasta gamma di carichi di lavoro, in particolare VDI e database che richiedono performance elevate, bassa latenza e affidabilità, le configurazioni FAS all-flash sono la scelta ideale per le applicazioni business-critical.</block>
@@ -30,12 +25,10 @@
   <block id="97685b4942693fb4c77d8b4efbd3f75d" category="inline-link">Leggi la scheda informativa di FAS</block>
   <block id="fac33d262d5cecdc4766c37ba6f9f935" category="paragraph"><block ref="fac33d262d5cecdc4766c37ba6f9f935" category="inline-link-rx"></block></block>
   <block id="1749d12df3df2319d3eee218a277ff83" category="section-title">MetroCluster</block>
-  <block id="d8da382e26478f0bc6e18592fafd00ee" category="paragraph">I sistemi storage AFF e FAS configurati con la funzionalità MetroCluster di ONTAP offrono una soluzione che combina il clustering basato su array con la replica sincrona per offrire disponibilità continua e nessuna perdita di dati. La configurazione di MetroCluster duplica immediatamente tutti i dati mission-critical transazione per transazione, offrendo un accesso ininterrotto ad applicazioni e dati.</block>
   <block id="e0a6bc6b2de7e7984c7936f947f3eb21" category="paragraph">A differenza delle soluzioni di replica dei dati standard, MetroCluster funziona perfettamente con l'ambiente host per garantire la disponibilità continua dei dati, eliminando al contempo la necessità di creare e gestire complicati script di failover.</block>
   <block id="f8e19c375690f5b7624b2e50f0cd6854" category="inline-link">Scopri di più su MetroCluster</block>
   <block id="12ec083d4ad98cfdd42aca66fcc37845" category="paragraph"><block ref="12ec083d4ad98cfdd42aca66fcc37845" category="inline-link-rx"></block></block>
   <block id="efd44736fee0b29831bc101f834f9425" category="section-title">Software ONTAP</block>
-  <block id="71104b6e4383497ec6f88bada2d3d545" category="paragraph">Il software per la gestione dei dati ONTAP è il software per lo storage in cluster che alimenta i sistemi AFF e FAS. Con uno spazio dei nomi globale che supporta fino a 24 nodi AFF e FAS di tutti i tipi, il software ONTAP supporta lo storage unificato (blocco e file), consentendo un significativo consolidamento dei carichi di lavoro che è possibile gestire utilizzando l'interfaccia grafica di Gestione sistema di ONTAP.</block>
   <block id="ac50b55c541887c8213257b7fa8011db" category="inline-link">Leggi la scheda informativa di ONTAP</block>
   <block id="b29519a2297404339371dd4904a14b94" category="paragraph"><block ref="c8c2c80c2dc2440549184e1ee06ef9aa" category="inline-link-rx"></block>.</block>
   <block id="d13de4a83d7b44c2e65495def8ef1c7b" category="section-title">Per ulteriori informazioni</block>
@@ -45,18 +38,10 @@
   <block id="33123ba2709c3a1044173954d31c8bda" category="list-text"><block ref="33123ba2709c3a1044173954d31c8bda" category="inline-link-rx"></block></block>
   <block id="c8db31d0d38042ea4fd10dd6bdfd347e" category="inline-link">Documenti ONTAP</block>
   <block id="329e6107dab8bc5916ad0475212c00e8" category="list-text"><block ref="329e6107dab8bc5916ad0475212c00e8" category="inline-link-rx"></block></block>
-  <block id="44d8486403c2cdfe41dc5de62cbf76d1" category="summary">I sistemi storage NetApp AFF e FAS offrono servizi di gestione dei dati applicativi e di storage per applicazioni a elevata larghezza di banda che richiedono uno storage semplice, facile da gestire e all-flash con affidabilità di livello Enterprise.</block>
-  <block id="353534d94bfe5cda4a518ae399d604c2" category="doc">Documentazione AFF e FAS</block>
   <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">Tutto</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">Inizia subito</block>
   <block id="9e2ef56d3728315bb8dc93124d72f8cd" category="sidebar">Hardware di sistema</block>
   <block id="0bcaacd75b850fde02c6d9384f639e41" category="sidebar">Upgrade del sistema</block>
-  <block id="92c6d872a66fecc8bd4e1d7766857bea" category="sidebar">Scopri di più su AFF e FAS</block>
-  <block id="89367cedc98a9ab8e00fe6333998bb75" category="sidebar">Scopri la famiglia di sistemi storage AFF e FAS.</block>
-  <block id="5d30e497af6505a70fb4a9dc3c844793" category="sidebar">Installazione e manutenzione di AFF e FAS</block>
-  <block id="04de76368936f7c44c7e195855fd893c" category="sidebar">Installazione e manutenzione dei sistemi AFF, FAS o di tutti gli array SAN.</block>
-  <block id="53d4dca81abe1b4d22f8624acbac213b" category="sidebar">Aggiornamento di AFF e FAS</block>
-  <block id="42710888a632d6579b04a4f26901f69a" category="sidebar">Aggiorna i tuoi sistemi storage AFF e FAS.</block>
   <block id="cce8f24137d8ba188a996f1ac50fd1c9" category="sidebar">Switch di cluster e storage</block>
   <block id="d5b36810f407899aa4d760770797c7eb" category="sidebar">Installare, aggiornare e gestire gli switch di cluster e storage.</block>
   <block id="18f57d600a92c92b9c8e184c2871790b" category="sidebar">ONTAP MetroCluster</block>
@@ -69,4 +54,22 @@
   <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
   <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
   <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="b05f1c4b5e26f3eac9dee0aad263ed75" category="summary">La famiglia ONTAP di sistemi storage di NetApp è stata progettata per le applicazioni Enterprise che richiedono uno storage semplice da gestire, veloce e sicuro con affidabilità Enterprise e accesso ai dati continuo.</block>
+  <block id="4931551222aa917801cbe975fd254f58" category="doc">Informazioni sui sistemi hardware ONTAP</block>
+  <block id="854c844bc4fd6abc91a977f49db56a07" category="paragraph">I sistemi hardware ONTAP di NetApp sono progettati per applicazioni Enterprise che richiedono uno storage facile da gestire, veloce e sicuro con affidabilità Enterprise e accesso ai dati continuo.</block>
+  <block id="92c71332ca57dee04135a2037db6113d" category="paragraph">I sistemi hardware ONTAP di NetApp sono disponibili in configurazioni all-flash (AFF) e flash ibrida e solo HDD (FAS), offrendoti la possibilità di scegliere la combinazione di supporti storage che meglio soddisfa i tuoi requisiti di performance, capacità e costi.</block>
+  <block id="3732021d709f401480670fe0967338ce" category="paragraph">Puoi raggruppare combinazioni differenti di modelli per eseguire carichi di lavoro misti sullo stesso sistema storage e sviluppare il tuo ambiente aggiungendo nuove generazioni di storage con le tecnologie più recenti.</block>
+  <block id="1bca200f5a2f620714b2ee8b86ec36f2" category="section-title">Tutti i sistemi con array SAN (ASA)</block>
+  <block id="172f4b9c0cae1bff93aa1f4793e65421" category="paragraph">L'array SAN all-flash NetApp (ASA) offre un'esperienza SAN semplificata e dedicata che fornisce una disponibilità continua dei dati per database Enterprise mission-critical e altri workload SAN tramite protocollo FCP o iSCSI.</block>
+  <block id="aec950ad3eb8e00365bee35dd403ea61" category="inline-link">Leggi la scheda informativa su ASA</block>
+  <block id="42fa76a7b072e3d32194f9e32ee843c3" category="paragraph"><block ref="42fa76a7b072e3d32194f9e32ee843c3" category="inline-link-rx"></block></block>
+  <block id="09cbbac77d0ef506dcbd294171cc66dc" category="paragraph">I sistemi storage hardware di ONTAP configurati con la funzionalità MetroCluster di ONTAP offrono una soluzione che combina il clustering basato su array con la replica sincrona per offrire disponibilità continua e nessuna perdita di dati. La configurazione di MetroCluster duplica immediatamente tutti i dati mission-critical transazione per transazione, offrendo un accesso ininterrotto ad applicazioni e dati.</block>
+  <block id="f5663fc0d37f754e24c01ce5dd001d5f" category="paragraph">Il software per la gestione dei dati ONTAP è il software per lo storage in cluster che è alla base dei sistemi hardware ONTAP. Con un namespace globale che supporta fino a 24 nodi hardware di tutti i tipi, il software ONTAP supporta lo storage unificato (blocchi e file), consentendo un consolidamento significativo dei carichi di lavoro da gestire tramite la GUI ONTAP System Manager.</block>
+  <block id="1f90335d79116dc043d2eb600c05f7dd" category="summary">I sistemi storage hardware ONTAP AFF, FAS e ASA di NetApp offrono servizi per la gestione dei dati delle applicazioni e dello storage per applicazioni a elevata larghezza di banda che richiedono uno storage all-flash semplice, facile da gestire e con affidabilità Enterprise.</block>
+  <block id="ec6e72d1c4bb7dccdc62b6caf35c95f7" category="doc">Documentazione sui sistemi hardware ONTAP</block>
+  <block id="0f7d6ea8518a2e39acde3d5aa8ea5537" category="sidebar">Informazioni sui sistemi hardware ONTAP.</block>
+  <block id="802513659955a80d18b4529f94a6fd08" category="sidebar">Installazione e manutenzione</block>
+  <block id="345144a7a37c16195cdc0333ceebb0a8" category="sidebar">Installare ed eseguire la manutenzione dei sistemi hardware ONTAP.</block>
+  <block id="f683581d3e75f05f9d9215f9b4696cef" category="sidebar">Eseguire l'upgrade</block>
+  <block id="273baa0433bc0b2ead69ee760355071e" category="sidebar">Aggiorna i sistemi hardware ONTAP.</block>
 </blocks>
