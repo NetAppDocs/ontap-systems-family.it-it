@@ -10,6 +10,7 @@ summary: La famiglia ONTAP di sistemi storage di NetApp è stata progettata per 
 :imagesdir: ./media/
 
 
+[role="lead"]
 I sistemi hardware ONTAP di NetApp sono progettati per applicazioni Enterprise che richiedono uno storage facile da gestire, veloce e sicuro con affidabilità Enterprise e accesso ai dati continuo.
 
 I sistemi hardware ONTAP di NetApp sono disponibili in configurazioni all-flash (AFF) e flash ibrida e solo HDD (FAS), offrendoti la possibilità di scegliere la combinazione di supporti storage che meglio soddisfa i tuoi requisiti di performance, capacità e costi.
@@ -28,7 +29,7 @@ https://www.netapp.com/pdf.html?item=/media/7828-DS-3582-AFF-A-Series.pdf["Leggi
 
 
 
-== Tutti i sistemi con array SAN (ASA)
+== Sistemi con array SAN all-flash (ASA)
 
 L'array SAN all-flash NetApp (ASA) offre un'esperienza SAN semplificata e dedicata che fornisce una disponibilità continua dei dati per database Enterprise mission-critical e altri workload SAN tramite protocollo FCP o iSCSI.
 

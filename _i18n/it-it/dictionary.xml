@@ -59,7 +59,6 @@
   <block id="854c844bc4fd6abc91a977f49db56a07" category="paragraph">I sistemi hardware ONTAP di NetApp sono progettati per applicazioni Enterprise che richiedono uno storage facile da gestire, veloce e sicuro con affidabilità Enterprise e accesso ai dati continuo.</block>
   <block id="92c71332ca57dee04135a2037db6113d" category="paragraph">I sistemi hardware ONTAP di NetApp sono disponibili in configurazioni all-flash (AFF) e flash ibrida e solo HDD (FAS), offrendoti la possibilità di scegliere la combinazione di supporti storage che meglio soddisfa i tuoi requisiti di performance, capacità e costi.</block>
   <block id="3732021d709f401480670fe0967338ce" category="paragraph">Puoi raggruppare combinazioni differenti di modelli per eseguire carichi di lavoro misti sullo stesso sistema storage e sviluppare il tuo ambiente aggiungendo nuove generazioni di storage con le tecnologie più recenti.</block>
-  <block id="1bca200f5a2f620714b2ee8b86ec36f2" category="section-title">Tutti i sistemi con array SAN (ASA)</block>
   <block id="172f4b9c0cae1bff93aa1f4793e65421" category="paragraph">L'array SAN all-flash NetApp (ASA) offre un'esperienza SAN semplificata e dedicata che fornisce una disponibilità continua dei dati per database Enterprise mission-critical e altri workload SAN tramite protocollo FCP o iSCSI.</block>
   <block id="aec950ad3eb8e00365bee35dd403ea61" category="inline-link">Leggi la scheda informativa su ASA</block>
   <block id="42fa76a7b072e3d32194f9e32ee843c3" category="paragraph"><block ref="42fa76a7b072e3d32194f9e32ee843c3" category="inline-link-rx"></block></block>
@@ -72,4 +71,5 @@
   <block id="345144a7a37c16195cdc0333ceebb0a8" category="sidebar">Installare ed eseguire la manutenzione dei sistemi hardware ONTAP.</block>
   <block id="f683581d3e75f05f9d9215f9b4696cef" category="sidebar">Eseguire l'upgrade</block>
   <block id="273baa0433bc0b2ead69ee760355071e" category="sidebar">Aggiorna i sistemi hardware ONTAP.</block>
+  <block id="f40344306e48f0136b4a528e6200d2ed" category="section-title">Sistemi con array SAN all-flash (ASA)</block>
 </blocks>
