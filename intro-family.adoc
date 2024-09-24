@@ -25,7 +25,9 @@ I sistemi AFF basati su NVMe sono una solida piattaforma scale-out creata per gl
 
 Supportando una vasta gamma di carichi di lavoro, in particolare VDI e database che richiedono performance elevate, bassa latenza e affidabilità, le configurazioni FAS all-flash sono la scelta ideale per le applicazioni business-critical.
 
-https://www.netapp.com/pdf.html?item=/media/7828-DS-3582-AFF-A-Series.pdf["Leggi la scheda informativa di AFF Serie A."^] e. https://www.netapp.com/media/81583-da-4240-aff-c-series.pdf["Leggi la scheda informativa di AFF serie C."^].
+* https://www.netapp.com/pdf.html?item=/media/7828-DS-3582-AFF-A-Series.pdf["Leggi la scheda informativa della serie AFF A."^]
+* https://www.netapp.com/media/81583-da-4240-aff-c-series.pdf["Leggi la scheda informativa sulla Serie C di AFF"^]
+
 
 
 
@@ -33,7 +35,15 @@ https://www.netapp.com/pdf.html?item=/media/7828-DS-3582-AFF-A-Series.pdf["Leggi
 
 L'array SAN all-flash NetApp (ASA) offre un'esperienza SAN semplificata e dedicata che fornisce una disponibilità continua dei dati per database Enterprise mission-critical e altri workload SAN tramite protocollo FCP o iSCSI.
 
-https://www.netapp.com/pdf.html?item=/media/19466-SB-4081.pdf["Leggi la scheda informativa su ASA"^]
+.Sistemi ASA r2
+I nuovi sistemi NetApp ASA R2 (ASA A1K, ASA A70 e ASA A90) forniscono una soluzione hardware e software unificata che crea un'esperienza semplificata specifica per le esigenze dei clienti solo SAN.
+
+In un sistema ASA R2, il software ONTAP e System Manager sono ottimizzati per fornire il supporto per la funzionalità SAN essenziale, rimuovendo al contempo la visibilità delle funzioni e delle funzioni non supportate negli ambienti SAN.
+
+* https://www.netapp.com/data-storage/all-flash-san-storage-array/["Leggi la scheda informativa su ASA"^]
+* Ulteriori informazioni su link:https://docs.netapp.com/us-en/asa-r2/learn-more/hardware-comparison.html["Nuovi sistemi ASA R2 rispetto ai sistemi ASA"^]
+* Vedere il supporto completo alla configurazione e le limitazioni per i sistemi ASA e ASA R2 in https://hwu.netapp.com/["NetApp Hardware Universe"^]
+
 
 
 
@@ -43,7 +53,7 @@ I sistemi flash ibridi FAS sono una piattaforma hardware creata per ambienti SAN
 
 Grazie all'hardware altamente disponibile, i sistemi flash ibridi FAS soddisfano in modo conveniente le esigenze di carico di lavoro combinando la combinazione ideale di flash e dischi rotanti tradizionali. È ideale per backup e conservazione, consolidamento di applicazioni aziendali generiche e contenuti distribuiti.
 
-https://www.netapp.com/pdf.html?item=/media/7819-ds-4020.pdf["Leggi la scheda informativa di FAS"^]
+https://www.netapp.com/pdf.html?item=/media/7819-ds-4020.pdf["Leggi la scheda informativa su FAS"^]
 
 
 
@@ -61,13 +71,10 @@ https://www.netapp.com/pdf.html?item=/media/13480-tr4705.pdf["Scopri di più su 
 
 Il software per la gestione dei dati ONTAP è il software per lo storage in cluster che è alla base dei sistemi hardware ONTAP. Con un namespace globale che supporta fino a 24 nodi hardware di tutti i tipi, il software ONTAP supporta lo storage unificato (blocchi e file), consentendo un consolidamento significativo dei carichi di lavoro da gestire tramite la GUI ONTAP System Manager.
 
-https://www.netapp.com/pdf.html?item=/media/7413-ds-3231.pdf["Leggi la scheda informativa di ONTAP"^].
+https://www.netapp.com/pdf.html?item=/media/7413-ds-3231.pdf["Leggi la scheda informativa sul software ONTAP"^]
 
-
-
-== Per ulteriori informazioni
-
-* https://docs.netapp.com/us-en/ontap-systems/index.html["Documenti di AFF e FAS"^]
+.Per ulteriori informazioni
+* https://docs.netapp.com/us-en/ontap-systems/index.html["Documentazione sui sistemi hardware ONTAP"^]
 * https://docs.netapp.com/us-en/ontap-metrocluster/index.html["Documenti MetroCluster"^]
 * https://docs.netapp.com/us-en/ontap/index.html["Documenti ONTAP"^]
 
